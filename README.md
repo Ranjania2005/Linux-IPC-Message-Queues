@@ -86,10 +86,13 @@ int main()
 
 ## OUTPUT
 
-![Uploading image.png…]()
+![image](https://github.com/Ranjania2005/Linux-IPC-Message-Queues/assets/151624950/e5a201d1-8533-47cd-ac44-df67b0b9d536)
+
+![image](https://github.com/Ranjania2005/Linux-IPC-Message-Queues/assets/151624950/0ea37eb7-c7b0-45a5-ae7b-a47b1ee694ad)
 
 
 
+![image](https://github.com/Ranjania2005/Linux-IPC-Message-Queues/assets/151624950/26a4c3e9-855d-4535-80a7-92657cbb7580)
 
 
 

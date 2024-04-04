@@ -86,7 +86,28 @@ int main()
 
 ## OUTPUT
 
-![Uploading Screenshot (193).png…]()
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
